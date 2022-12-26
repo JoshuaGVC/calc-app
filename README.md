@@ -1,8 +1,10 @@
 # Calc-App
 
+![calculadora](/images/imagen_calculadora.png)
+
 Calc-app es una calculadora basica con las funcionabilidad sencillas como sumar, restar, dividir y multiplicar, pues como en toda calculadora su uso es muy facil como marcar lso numeros a operar agregarle el simbolo operador y apretar el signo "=" y obtener el resultado.
 
-![calculadora](/images/imagen_calculadora.png)
+-------------------------------------------------[link demo](https://joshuagvc.github.io/calc-app/)------------------------------------------------------------
 
 ## Datos de la creacion de la app:
 
